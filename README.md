@@ -1,3 +1,3 @@
 # hacknyu
-HackNYU 2019.. Yeah
-This project is pretty cool.  You'll see, don't get too curious.
+HackNYU 2019.
+This project is a VR game meant to teach people about the dangers of forest fires.
